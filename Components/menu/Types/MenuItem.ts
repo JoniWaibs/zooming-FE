@@ -1,6 +1,6 @@
 export default interface MenuItem {
   id: number;
   icon: string;
-  iconStyle: string;
+  customColor: string;
   text: string;
 }
