@@ -1,14 +1,14 @@
-import React from 'react'
-import { StyleSheet, Text, View } from 'react-native'
+import React from 'react';
+import { StyleSheet, Text, View } from 'react-native';
 
 const ContactsList = () => {
-    return (
-        <View>
-            <Text>Contact List</Text>
-        </View>
-    )
-}
+  return (
+    <View>
+      <Text>Contact List</Text>
+    </View>
+  );
+};
 
-export default ContactsList
+export default ContactsList;
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({});
