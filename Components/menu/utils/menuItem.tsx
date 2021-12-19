@@ -4,25 +4,25 @@ export const menuItem : MenuItem[] = [
     {
         id: 1,
         icon: 'videocam',
-        iconStyle: 'iconOrange',
+        customColor: '#e47515',
         text: 'New Meeting',
     },
     {
         id: 2,
         icon: 'add-box',
-        iconStyle: 'iconBlue',
+        customColor: '#49bfff',
         text: 'Join',
     },
     {
         id: 3,
         icon: 'calendar-today',
-        iconStyle: 'iconBlue',
+        customColor: '#49bfff',
         text: 'Schedule',
     },
     {
         id: 4,
         icon: 'screen-share',
-        iconStyle: 'iconBlue',
+        customColor: '#49bfff',
         text: 'Share screen',
     }
 ]
